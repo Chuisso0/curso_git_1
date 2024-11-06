@@ -1,5 +1,7 @@
-Testando
-uma 
-atualizlçao
+uma
+atualização
 de
 arquivo
+2
+
+clear
