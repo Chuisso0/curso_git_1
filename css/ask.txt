@@ -5,3 +5,4 @@ arquivo
 2
 
 clear
+enviando a fucnionalidade b
