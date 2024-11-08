@@ -3,5 +3,6 @@ atualização
 de
 arquivo
 2
-
-clear
+Diff
+de
+arquivo
